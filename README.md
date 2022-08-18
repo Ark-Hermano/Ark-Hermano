@@ -16,15 +16,6 @@
 </div>
 <br/>
 
-<div style="display: inline_block">
-  <div>
-    <h1>Frontend</h1>
-  </div>
-  
-  <img align="center" alt="ts" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
-</div>
-<br/>
-
 <div style="display: inline_block"> 
   <div>
     <h1>Backend</h1>
@@ -50,6 +41,7 @@
     <h1>Others</h1>
   </div>
   
+  <img align="center" alt="ts" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
   <img align="center" alt="redux" src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white" />
 </div>
 <br/>
