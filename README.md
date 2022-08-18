@@ -27,10 +27,33 @@
 
 <div style="display: inline_block"> 
   <div>
-    <h1>Frontend</h1>
+    <h1>Backend</h1>
   </div>
-  
+   
+  <img align="center" alt="nestjs" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
   <img align="center" alt="nodejs" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
   <img align="center" alt="laravel" src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
 </div>
 <br/>
+
+<div style="display: inline_block"> 
+  <div>
+    <h1>Mobile</h1>
+  </div>
+  
+  <img align="center" alt="react-native" src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+</div>
+<br/>
+
+<div style="display: inline_block"> 
+  <div>
+    <h1>Others</h1>
+  </div>
+  
+  <img align="center" alt="redux" src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white" />
+</div>
+<br/>
+
+
+
+
